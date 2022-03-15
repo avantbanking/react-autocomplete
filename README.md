@@ -1,3 +1,6 @@
+## NOTE: 
+Fork of react-autocomplete to [fix blur issue](https://github.com/avantbanking/react-autocomplete/commit/35107a27cd3748c0374e4705010e94707967e16a) on touch devices. react-autocomplete seems to not be maintained anymore. If you are looking at using this for a new project you probably shouldn't. Check for maintained alterantives instead. 
+
 # React Autocomplete [![Travis build status](https://travis-ci.org/reactjs/react-autocomplete.svg?branch=master)](https://travis-ci.org/reactjs/react-autocomplete/)
 
 Accessible, extensible, Autocomplete for React.js.
